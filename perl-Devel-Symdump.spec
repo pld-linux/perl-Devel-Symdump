@@ -25,7 +25,7 @@ This little package serves to access the symbol table of perl. It
 dumps symbol names or the symbol table.
 
 %description -l pl
-Ten niewielki pakiet s³u¿y do dostêpu do tablicy symboli perla.
+Ten niewielki pakiet s³u¿y do dostêpu do tablicy symboli Perla.
 Pobiera on nazwy symboli lub tablicê symboli.
 
 %prep
