@@ -10,7 +10,7 @@ Summary(fr):	Module Perl Devel::Symdump
 Summary(it):	Modulo di Perl Devel::Symdump
 Summary(ja):	Devel::Symdump Perl ¥â¥¸¥å¡¼¥ë
 Summary(ko):	Devel::Symdump ÆÞ ¸ðÁÙ
-Summary(no):	Perlmodul Devel::Symdump
+Summary(nb):	Perlmodul Devel::Symdump
 Summary(pl):	Modu³ Perla Devel::Symdump
 Summary(pt):	Módulo de Perl Devel::Symdump
 Summary(pt_BR):	Módulo Perl Devel::Symdump
