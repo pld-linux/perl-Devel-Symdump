@@ -4,8 +4,8 @@
 Summary:	Devel::Symdump perl module
 Summary(pl):	Modu³ perla Devel::Symdump
 Name:		perl-Devel-Symdump
-Version:	2.01
-Release:	8
+Version:	2.03
+Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
