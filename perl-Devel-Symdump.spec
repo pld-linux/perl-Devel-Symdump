@@ -20,7 +20,7 @@ Summary(uk):	Модуль для Perl Devel::Symdump
 Summary(zh_CN):	Devel::Symdump Perl дё©И
 Name:		perl-Devel-Symdump
 Version:	2.03
-Release:	2
+Release:	3
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
