@@ -9,7 +9,7 @@ Summary:	Devel::Symdump - dump symbol names or the symbol table
 Summary(pl):	Devel::Symdump - zrzucanie nazw symboli lub tablicy symboli
 Name:		perl-Devel-Symdump
 Version:	2.03
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
