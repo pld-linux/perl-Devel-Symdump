@@ -41,7 +41,7 @@ Modu³ perla Devel::Symdump - zrzucaj±cy symbole lub tablicê symboli.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
