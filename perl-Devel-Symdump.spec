@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Devel
 %define	pnam	Symdump
-Summary:	Devel-Symdump perl module
-Summary(pl):	Modu³ perla Devel-Symdump
+Summary:	Devel::Symdump perl module
+Summary(pl):	Modu³ perla Devel::Symdump
 Name:		perl-Devel-Symdump
 Version:	2.01
 Release:	8
@@ -15,10 +15,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Devel-Symdump - dump symbol names or the symbol table.
+Devel::Symdump - dump symbol names or the symbol table.
 
 %description -l pl
-Modu³ perla Devel-Symdump.
+Modu³ perla Devel::Symdump.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
