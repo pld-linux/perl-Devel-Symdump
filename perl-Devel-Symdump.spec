@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Devel
-%define	pnam	Symdump
+%define		pdir	Devel
+%define		pnam	Symdump
 Summary:	Devel::Symdump - dump symbol names or the symbol table
 Summary(pl):	Devel::Symdump - zrzucanie nazw symboli lub tablicy symboli
 Name:		perl-Devel-Symdump
