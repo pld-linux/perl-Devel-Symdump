@@ -3,7 +3,7 @@ Summary:	Devel-Symdump perl module
 Summary(pl):	Modu³ perla Devel-Symdump
 Name:		perl-Devel-Symdump
 Version:	2.01
-Release:	3
+Release:	4
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
@@ -41,9 +41,6 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc *.gz
-
 %{perl_sitelib}/Devel/Symdump.pm
 %{perl_sitelib}/Devel/Symdump
-%{perl_sitearch}/auto/Devel/Symdump
-
 %{_mandir}/man3/*
