@@ -39,7 +39,7 @@ Modu³ perla Devel::Symdump - zrzucaj±cy symbole lub tablicê symboli.
 %setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 %install
