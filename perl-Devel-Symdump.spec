@@ -1,11 +1,26 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Devel
 %define	pnam	Symdump
-Summary:	Devel::Symdump perl module
-Summary(pl):	Modu³ perla Devel::Symdump
+Summary:	Devel::Symdump Perl module
+Summary(cs):	Modul Devel::Symdump pro Perl
+Summary(da):	Perlmodul Devel::Symdump
+Summary(de):	Devel::Symdump Perl Modul
+Summary(es):	Módulo de Perl Devel::Symdump
+Summary(fr):	Module Perl Devel::Symdump
+Summary(it):	Modulo di Perl Devel::Symdump
+Summary(ja):	Devel::Symdump Perl ¥â¥¸¥å¡¼¥ë
+Summary(ko):	Devel::Symdump ÆŞ ¸ğÁÙ
+Summary(no):	Perlmodul Devel::Symdump
+Summary(pl):	Modu³ Perla Devel::Symdump
+Summary(pt):	Módulo de Perl Devel::Symdump
+Summary(pt_BR):	Módulo Perl Devel::Symdump
+Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl Devel::Symdump
+Summary(sv):	Devel::Symdump Perlmodul
+Summary(uk):	íÏÄÕÌØ ÄÌÑ Perl Devel::Symdump
+Summary(zh_CN):	Devel::Symdump Perl Ä£¿é
 Name:		perl-Devel-Symdump
 Version:	2.03
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
