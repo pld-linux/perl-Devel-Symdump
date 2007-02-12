@@ -6,7 +6,7 @@
 %define		pdir	Devel
 %define		pnam	Symdump
 Summary:	Devel::Symdump - dump symbol names or the symbol table
-Summary(pl):	Devel::Symdump - zrzucanie nazw symboli lub tablicy symboli
+Summary(pl.UTF-8):   Devel::Symdump - zrzucanie nazw symboli lub tablicy symboli
 Name:		perl-Devel-Symdump
 Version:	2.0602
 Release:	1
@@ -28,9 +28,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This little package serves to access the symbol table of perl. It
 dumps symbol names or the symbol table.
 
-%description -l pl
-Ten niewielki pakiet s³u¿y do dostêpu do tablicy symboli Perla.
-Pobiera on nazwy symboli lub tablicê symboli.
+%description -l pl.UTF-8
+Ten niewielki pakiet sÅ‚uÅ¼y do dostÄ™pu do tablicy symboli Perla.
+Pobiera on nazwy symboli lub tablicÄ™ symboli.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
