@@ -6,7 +6,7 @@
 %define		pdir	Devel
 %define		pnam	Symdump
 Summary:	Devel::Symdump - dump symbol names or the symbol table
-Summary(pl.UTF-8):   Devel::Symdump - zrzucanie nazw symboli lub tablicy symboli
+Summary(pl.UTF-8):	Devel::Symdump - zrzucanie nazw symboli lub tablicy symboli
 Name:		perl-Devel-Symdump
 Version:	2.0602
 Release:	1
