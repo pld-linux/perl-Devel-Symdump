@@ -15,10 +15,11 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Devel/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	3dd7e1c7779a37c31a3eb60c0a97ea9f
-URL:		http://search.cpan.org/dist/Devel-Symdump/
+URL:		https://metacpan.org/release/Devel-Symdump
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.45_02
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
+BuildRequires:	rpmbuild(macros) >= 1.745
 %if %{with tests}
 BuildRequires:	perl-Compress-Zlib
 BuildRequires:	perl-Test-Pod-Coverage
